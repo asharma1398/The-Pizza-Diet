@@ -1,0 +1,27 @@
+{
+  "name": "The-Pizza-Diet",
+  "version": "1.0.0",
+  "description": "A pizza logger created with MySQL, Node, Express, Handlebars and a homemade ORM",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asharma1398/The-Pizza-Diet.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asharma1398/The-Pizza-Diet/issues"
+  },
+  "homepage": "https://github.com/asharma1398/The-Pizza-Diet#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-handlebars": "^5.0.0",
+    "mysql": "^2.18.1"
+  }
+}
